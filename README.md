@@ -3,7 +3,7 @@
 ### Introduction
 > 해당 레포지토리에는 한국외대 웹 페이지 제작 프로젝트의 효율적인 진행을 위해 AWS Lambda를 활용하여 Notion과 Slack를 연동한 Python 소스 코드가 있습니다. 아래 GIF와 같이 동작합니다.
 
-![](00.gif)
+![](Demo.gif)
 
 ### How to work
 > 아래 글을 통해서 동작 원리에 대한 자세한 설명을 확인할 수 있습니다.
